@@ -10,12 +10,15 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
 }
 
 button{
     padding: 5px 15px;
     margin: 20px 0px;
     background-color: black;
+    color:white;
     font-weight: bold;
     cursor: pointer;
 }
@@ -25,14 +28,4 @@ img {
     height: 100px;
     margin-bottom: 10px;
     border-radius: 50%;
-}
-
-.male{
-    background-color: lightskyblue;
-    border-color: lightblue
-}
-
-.female{
-    background-color: pink;
-    border-color: pink;
 }
