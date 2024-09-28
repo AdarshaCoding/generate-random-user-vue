@@ -18,7 +18,7 @@ button{
     padding: 5px 15px;
     margin: 20px 0px;
     background-color: black;
-    color:white;
+    color: black;
     font-weight: bold;
     cursor: pointer;
 }
@@ -28,4 +28,12 @@ img {
     height: 100px;
     margin-bottom: 10px;
     border-radius: 50%;
+}
+
+.male{
+    background-color: brown;
+}
+
+.female {
+    background-color: lightpink;
 }
